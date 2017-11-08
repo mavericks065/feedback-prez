@@ -39,9 +39,8 @@ class: center, middle
 
 * Short-ciruit feedback loop
 
-    * team - Devs / UX / PO / PM / BAs
-        * Pair programming
-        * Mob programming
+    * team - Devs / UX / PO / BAs
+        * Pair / Mob programming
         * Code review : mob / peer review
         * Pull request
         * Demo
@@ -59,12 +58,30 @@ class: center, middle
 
 ## Iterate
 
+* Small features
+
 * Test Driven Development
 
-* ATDD / BDD
+* Acceptance Test Driven Development / Behaviour Driven Development
 
 * Small Pull requests
 
+
+---
+
+.right[
+    # The right way
+]
+
+## Iterate
+
+* Use tools and version system
+
+* Automate tasks
+
+* Release often
+
+* Define standards
 
 ---
 
@@ -78,6 +95,7 @@ class: center, middle
     * You shall not over-engineer
 
 * Refactor - **often**
+
 
 ---
 
