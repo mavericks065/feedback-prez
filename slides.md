@@ -16,17 +16,16 @@ class: center, middle
     # The right way
 ]
 
-.middle[
 ## Communicate
 
 * Exchange
 
 * Understand
     * Draw
+
     * Discuss upfront
 
 * Have an overview
-]
 
 ---
 
@@ -34,7 +33,6 @@ class: center, middle
     # The right way
 ]
 
-.middle[
 ## Communicate
 
 * Short-ciruit feedback loop
@@ -48,7 +46,6 @@ class: center, middle
     * stakeholders
         * Demo
         * Face to face discussion
-]
 
 ---
 
