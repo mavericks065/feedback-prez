@@ -24,6 +24,8 @@ class: center, middle
 * Understand
     * Draw
     * Discuss upfront
+
+* Have an overview
 ]
 
 ---
@@ -39,9 +41,11 @@ class: center, middle
 
     * team - Devs / UX / PO / PM / BAs
         * Pair programming
-        * Code review : mob review, peer review
+        * Mob programming
+        * Code review : mob / peer review
+        * Pull request
         * Demo
-        
+
     * stakeholders
         * Demo
         * Face to face discussion
@@ -55,9 +59,25 @@ class: center, middle
 
 ## Iterate
 
-* Often
-* Small iterations
+* Test Driven Development
 
+* ATDD / BDD
+
+* Small Pull requests
+
+
+---
+
+.right[
+    # The right way
+]
+
+## Keep It Simple Stupid / Smart - KISS
+
+* Aim : **simple solution**
+    * You shall not over-engineer
+
+* Refactor - **often**
 
 ---
 
