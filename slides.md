@@ -13,24 +13,41 @@ class: center, middle
 ---
 
 .right[
-    # The right way
+# The right way
 ]
 
 ## Communicate
 
 * Exchange
 
+* Listen
+
 * Understand
+    
     * Draw
 
     * Discuss upfront
 
-* Have an overview
+    * Challenge and accept to be wrong
 
 ---
 
 .right[
-    # The right way
+# The right way
+]
+
+## Communicate
+
+* Know your product
+
+* Have a project overview
+
+* Define success - failure
+
+---
+
+.right[
+# The right way
 ]
 
 ## Communicate
@@ -50,7 +67,7 @@ class: center, middle
 ---
 
 .right[
-    # The right way
+# The right way
 ]
 
 ## Iterate
@@ -59,20 +76,19 @@ class: center, middle
 
 * Test Driven Development
 
-* Acceptance Test Driven Development / Behaviour Driven Development
-
-* Small Pull requests
-
+* Acceptance Test / Behaviour Driven Development
 
 ---
 
 .right[
-    # The right way
+# The right way
 ]
 
 ## Iterate
 
-* Use tools and version system
+* Small Pull requests
+
+* Use fully modern tools and version system
 
 * Automate tasks
 
@@ -83,7 +99,21 @@ class: center, middle
 ---
 
 .right[
-    # The right way
+# The right way
+]
+
+## Iterate
+
+* Release often
+
+* Monitor your application
+
+* Measure - get indicators
+
+---
+
+.right[
+# The right way
 ]
 
 ## Keep It Simple Stupid / Smart - KISS
@@ -93,12 +123,11 @@ class: center, middle
 
 * Refactor - **often**
 
-
 ---
 
 class: center, middle
 
-# **Make the right product** the right way with the right team
+# **Make the right product**, the right way with the right team
 
 ---
 class: center, middle
