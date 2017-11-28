@@ -120,3 +120,39 @@ Solution:
 - We know a lot more quickly if a piece of code is working. Short-ciruit feedback loop.
 - Tests are not influenced by implementation.
 
+---
+
+class: center, middle
+
+## How is it possible to meet the expected requirements?
+
+???
+
+Problem:
+
+ - Hey Thibaut, every time I develop a Jira ticket my business analyst are rejected even though I am certain beforehands that it is completed.
+ - What happens? Features don't work? Or are there some misunderstanding? 
+ - Sometimes I think what I am doing is what is needed but it appears that I don't meet all the key details.
+ - Do you have an easy way to find out what has been developped before ? 
+ - Actually it is also very hard because everything is dug into a long pile of Jira Tickets.
+
+---
+
+class: center, middle
+.left[
+### How is it possible to meet the expected requirements?
+]
+
+Specification by example
+
+Acceptance Test Driven Development
+
+Behavior Driven Development
+
+
+Solution: 
+- Specification by example
+- ATDD / BDD
+- Specs are up-to-date
+- Avoid to have regression
+- feedback quick and reliable when automated. 
