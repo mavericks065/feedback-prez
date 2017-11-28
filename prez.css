@@ -1,3 +1,13 @@
 .img-full-size img {
   height: 25em;
 }
+
+
+.non-violent-pic img {
+  float: left;
+  height: 20em;
+}
+
+.non-violent-slide blockquote {
+  margin-top: 6em;
+}
