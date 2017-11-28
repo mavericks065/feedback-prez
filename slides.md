@@ -65,8 +65,58 @@ Solution: make a Proof Of Concept
 
 ---
 
+class: center, middle
 
+## How can I make a better application for my customers?
 
+???
 
+Problem:
 
+ - Hey Nick, I have an application in production since a bit of time and every time we develop a new feature.
+ - Do you you spend a lot of time to fix bugs every time you implement anything? 
+ - Yes, and on some parts of the code it is too painful to test it.
+
+---
+
+class: center, middle
+.left[
+### How can I make a better application for my customers?
+]
+
+Fix recurring bugs
+
+**Unit tests**
+
+Code feedback
+
+???
+
+Solution:
+
+ - To Fix the fact that you have tons of bugs to fix: add unit tests every time you have a bug
+ - feedback 
+ - refactor
+
+---
+
+class: center, middle
+.left[
+### How can I make a better application for my customers?
+]
+
+Develop new features
+
+**Test Driven Development**
+
+Short-ciruit feedback loop
+
+???
+
+Solution:
+- As it is too hard to test, the code is probably too tightly coupled, functionalities are probably mixed and design might not be adequate.
+- TDD will help to simplify solution, force dev to decouple the app components and make the app modular, design should emerge step by step. 
+- Force to divide big problems into smaller ones. 
+- We know a lot more quickly if a piece of code is working. Short-ciruit feedback loop.
+- Tests are not influenced by implementation.
 
