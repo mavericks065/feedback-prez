@@ -107,7 +107,7 @@ Solution: make a Proof Of Concept
 
 class: center, middle
 
-## How can I reduce the time spend on bugs?
+## How can I reduce the time spent on bugs?
 
 ![talk](./img/talk.png)
 
@@ -207,11 +207,29 @@ Problem:
 
 class: center, middle
 .left[
+### [Craftsmanship] Specification by example - GHERKIN
+]
+![gherkin](./img/gherkin.png)
+
+???
+
+# NICO
+
+Solution:
+- Specification by example
+- ATDD / BDD
+- Specs are up-to-date
+- Avoid to have regression
+- feedback quick and reliable when automated.
+
+---
+
+class: center, middle
+.left[
 ### [Craftsmanship] Specification by example - ATDD
 ]
-
 .img-full-size[![bdd-cycle](./img/bdd-cycle.png)]
-![gherkin](./img/gherkin.png)
+
 
 ???
 
@@ -252,7 +270,7 @@ Problem:
  - maintenability/readability
  - what happen if the expert is not here (bus faxtor)
 
-**easrly code feedback**
+**early code feedback**
 
 ---
 
