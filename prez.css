@@ -1,7 +1,9 @@
 .img-full-size img {
-  height: 20em;
+  height: 25em;
 }
-
+.img-medium-size img {
+  height: 18em;
+}
 .code-review-commic img {
   width: 35em;
 }

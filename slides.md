@@ -44,7 +44,7 @@ Solutions: MVP
 ---
 class: center, middle
 .left[
-### Buffer's MVP: landing page
+### [Lean] Buffer's MVP: landing page
 ]
 
 .img-full-size[![buffer landing](./img/buffer-landing.png)]
@@ -121,7 +121,7 @@ Problem:
 
 class: center, middle
 .left[
-### Unit tests
+### [Craftsmanship] Unit tests
 ]
 
 .img-full-size[![cost of unit test](./img/unit-test.jpg)]
@@ -142,7 +142,7 @@ Solution:
 
 class: center, middle
 .left[
-### Test Driven Development
+### [Craftsmanship] Test Driven Development
 ]
 
 ![TDD](./img/tdd1.png)
@@ -181,13 +181,11 @@ Problem:
 
 class: center, middle
 .left[
-### Specification by example - ATDD
+### [Craftsmanship] Specification by example - ATDD
 ]
 
 .img-full-size[![bdd-cycle](./img/bdd-cycle.png)]
 ![gherkin](./img/gherkin.png)
-
-
 
 ???
 
@@ -214,6 +212,7 @@ clear;while x=0; do clear;date;echo "";echo "  [Count] | [IP ADDR]"; \
 echo "-------------------";netstat -np|grep :80|grep -v LISTEN \
 |awk '{print $5}'|cut -d: -f1|uniq -c; sleep 5;done
 ```
+> Displays the quantity of connections to port 80 on a per IP basis
 
 ???
 
@@ -228,14 +227,14 @@ Problem:
  - what happen if the expert is not here (bus faxtor)
 
 **easrly code feedback**
+
 ---
 
 class: center, middle
 
-.img-full-size[![code review-wtf](./img/code-review-wtf.png)]
-
----
-class: center, middle
+.left[
+### [Craftsmanship] Code Review
+]
 
 .code-review-commic[![code review-commic](./img/code-review-commic.png)]
 
@@ -244,6 +243,13 @@ class: center, middle
 
 Get some feedback early to create some team standard on your code.
 For better result, you can review the code by the whole team, it speeds up the creation (useful for the bootstrap of the team)
+
+---
+class: center, middle
+.left[
+### [Craftsmanship] Team Review
+]
+.img-full-size[![code review-wtf](./img/code-review-wtf.png)]
 
 ---
 class: center, middle
@@ -270,7 +276,9 @@ echo "-------------------";netstat -np|grep :80|grep -v LISTEN \
 
 ---
 class: center, middle
-
+.left[
+### [Craftsmanship] Pair programming
+]
 .img-full-size[![pair pragramming](./img/pair-programming.jpg)]
 
 ???
@@ -280,13 +288,15 @@ When coding:
 
 When assisting
  - learning from the other person:
-   - what is this super sweet hotkey to extract a method in IDEA
-   - what is this pattern you are using?
+ - what is this super sweet hotkey to extract a method in IDEA
+ - what is this pattern you are using?
 
 ---
 class: center, middle
-
-.img-full-size[![mob pragramming](./img/mob-programming.png)]
+.left[
+### [Craftsmanship] Mob programming
+]
+.img-medium-size[![mob pragramming](./img/mob-programming.png)]
 
 
 ???
@@ -309,7 +319,9 @@ class: center, middle
 
 ---
 class: center, middle
-
+.left[
+### [Lean] Data Driven
+]
 .img-full-size[![data driven](./img/data-driven.jpg)]
 
 ???
@@ -322,8 +334,10 @@ track your user behaviour with metrics:
 Even if it is used, can the experience of the user be expected ?
 ---
 class: center, middle
-
-.img-full-size[![User testing](./img/user-testing.jpg)]
+.left[
+### [UX] User Testing
+]
+.img-medium-size[![User testing](./img/user-testing.jpg)]
 
 
 ???
@@ -355,10 +369,8 @@ class: center, middle
 ---
 
 class: middle
-
-
 .top[
-### Devops
+### [Devops] Release often
 ]
 > DevOps is a software engineering practice that aims at unifying software development (Dev) and software operation (Ops). The main characteristic of the DevOps movement is to strongly advocate automation [...]. **DevOps aims at shorter development cycles, increased deployment frequency, more dependable releases, in close alignment with business objectives.**
 
@@ -366,6 +378,9 @@ class: middle
 ???
 
 **Reducing the user feedback loop**
+---
+
+AGILE
 ---
 
 class: center, middle
@@ -389,9 +404,7 @@ Problem:
  He's going to kick my ass...
 
 Solutions: apply Non violente communication
----
 
-AGILE
 
 ---
 layout: true
