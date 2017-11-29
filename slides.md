@@ -21,6 +21,19 @@ each project phases:
  - link to feedback
 
 ---
+
+## The speakers
+
+.person[
+.info[.name[Nicolas **Guignard**<br>].title[Software engineer @Octo]<br>@OCTODownUnder]
+.pic[![NIG](./img/nic.png)]
+]
+.person[
+.info[.name[Thibaut **Gery**<br>].title[Software engineer @Octo]<br>@OCTODownUnder]
+.pic[![TGE](./img/tge.jpg)]
+]
+
+---
 class: center, middle
 
 ## How do you make a product users need?

@@ -69,3 +69,25 @@ div.center img {
   text-align: right;
   font-size: 0.5em;
 }
+
+.person {
+  margin: 2em;
+  border-left: 1em solid #467491;
+}
+
+.person p{
+  display: flex;
+  justify-content: space-between;
+
+}
+.person .info {
+  width: 15em;
+  margin: 1em;
+}
+
+.person strong {
+  color: rgb(0, 36, 88);
+}
+.person .pic img{
+  width: 10em;
+}
