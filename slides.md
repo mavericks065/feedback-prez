@@ -339,12 +339,9 @@ class: center, middle
 ]
 .img-medium-size[![User testing](./img/user-testing.jpg)]
 
-
 ???
 
 # TIBO
-
-
  - watch your user
  - don't alter the User experience by giving indication (quantic photon physic's anecdote)
 
@@ -379,14 +376,34 @@ class: middle
 
 **Reducing the user feedback loop**
 ---
-
-AGILE
----
-
 class: center, middle
 
-## How to solve issues between two individuals?
+## How can we learn from the previous releases?
 
+![talk](./img/talk.png)
+
+???
+
+ - Okay : now we release often but every time we have the same issues : code, deployment, processes...
+ - what do you mean ? Don't you try to learn every time?
+ - well when I see something that I can have impacts on I try to do it but that's all.
+ - Have you heard about retrospectives ? this could be a way to make things better. 
+
+---
+class: center, middle
+.left[
+### [Agile] Retrospective
+]
+.img-medium-size[![retro](./img/retro.jpeg)]
+
+???
+Solution: 
+- talk about how the last release went. 
+- take actions on some selected key points agreed by the team
+
+---
+class: center, middle
+## How to solve issues between two individuals?
 ![talk](./img/talk.png)
 
 ???
