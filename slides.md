@@ -2,15 +2,30 @@
 class: center, middle
 
 # Make the right product, the right way with the right team
-## The importance of feedbacks
 .octo-logo[![octo logo](./img/octo-logo.png)]
+
+---
+class: center, middle
+
+## The importance of feedbacks
+
+.img-full-size[![intro methodo](./img/intro-methodo.png)]
+
+???
+
+# TIBO
+
+each project phases:
+ - discussion for the problem
+ - solution
+ - link to feedback
 
 ---
 class: center, middle
 
 ## How to make a product users need?
 
-.img-medium-size[![talk](./img/talk.png)]
+![talk](./img/talk.png)
 
 ???
 
@@ -35,6 +50,7 @@ class: center, middle
 .img-full-size[![buffer landing](./img/buffer-landing.png)]
 
 ???
+# TIBO
 engage customer with landing but no product, got a few early adopters to talk to and get needs first
 
 ---
@@ -43,6 +59,8 @@ class: center, middle
 .img-full-size[![buffer landing](./img/trash-symbol.jpg)]
 
 ???
+# TIBO
+
 Early feedback -> valuable knowledge
 MVP -> trash
 
@@ -52,9 +70,10 @@ class: center, middle
 
 ## Is this technically doable?
 
-.img-medium-size[![talk](./img/talk.png)]
+![talk](./img/talk.png)
 
 ???
+
 
 Problem:
 
@@ -68,9 +87,15 @@ Problem:
 
 class: center, middle
 
+.left[
+## Proof of Concept
+]
+
 .img-full-size[![a slice](./img/slice.jpg)]
 
 ???
+# NICO
+
 
 Solution: make a Proof Of Concept
 - it helps to convince management that this is worthwhile to invest more heavily on a particuliar solution.
@@ -82,7 +107,7 @@ class: center, middle
 
 ## How can I make a better application for my customers?
 
-.img-medium-size[![talk](./img/talk.png)]
+![talk](./img/talk.png)
 
 ???
 
@@ -96,19 +121,19 @@ Problem:
 
 class: center, middle
 .left[
-### How can I make a better application for my customers?
+### Unit tests
 ]
 
-Fix recurring bugs
+.img-full-size[![cost of unit test](./img/unit-test.jpg)]
 
-**Unit tests**
-
-Code feedback
 
 ???
 
+# NICO
+
 Solution:
 
+ - Fix recurring bugs
  - To Fix the fact that you have tons of bugs to fix: add unit tests every time you have a bug
  - feedback
  - refactor
@@ -117,18 +142,15 @@ Solution:
 
 class: center, middle
 .left[
-### How can I make a better application for my customers?
+### Test Driven Development
 ]
 
-Develop new features
-
-**Test Driven Development**
-
-Short-ciruit feedback loop
-
-.img-medium-size[![TDD](./img/tdd2.png)]
+![TDD](./img/tdd1.png)
 
 ???
+
+# TIBO
+
 
 Solution:
 - As it is too hard to test, the code is probably too tightly coupled, functionalities are probably mixed and design might not be adequate.
@@ -143,7 +165,7 @@ class: center, middle
 
 ## How is it possible to meet the expected requirements?
 
-.img-medium-size[![talk](./img/talk.png)]
+![talk](./img/talk.png)
 
 ???
 
@@ -159,16 +181,17 @@ Problem:
 
 class: center, middle
 .left[
-### How is it possible to meet the expected requirements?
+### Specification by example - ATDD
 ]
 
-Specification by example
+.img-full-size[![bdd-cycle](./img/bdd-cycle.png)]
+![gherkin](./img/gherkin.png)
 
-Acceptance Test Driven Development
 
-Behavior Driven Development
 
 ???
+
+# NICO
 
 Solution:
 - Specification by example
@@ -182,7 +205,7 @@ class: center, middle
 
 ## How to create team's standard?
 
-.img-medium-size[![talk](./img/talk.png)]
+![talk](./img/talk.png)
 
 --
 
@@ -193,6 +216,8 @@ echo "-------------------";netstat -np|grep :80|grep -v LISTEN \
 ```
 
 ???
+
+# NICO
 
 Problem:
  - We hired this expert last month but he's writing code that is super good but super hard to understand.
@@ -225,7 +250,7 @@ class: center, middle
 
 ## How to grow as a developer?
 
-.img-medium-size[![talk](./img/talk.png)]
+![talk](./img/talk.png)
 
 --
 
@@ -236,6 +261,8 @@ echo "-------------------";netstat -np|grep :80|grep -v LISTEN \
 ```
 
 ???
+
+# TIBO
 
 - but I kinda want to be able to write those one liners?
 - like... really ?!?!?!
@@ -270,7 +297,7 @@ class: center, middle
 
 ## How to make sure we are still building the app our user wants
 
-.img-medium-size[![talk](./img/talk.png)]
+![talk](./img/talk.png)
 
 ???
  - I just build this AMAZING feature, from heaps of data I recommend the best choice for the next purchase, the code is so neat: it has been review by the tech lead, the performances are great!
@@ -286,6 +313,8 @@ class: center, middle
 .img-full-size[![data driven](./img/data-driven.jpg)]
 
 ???
+# NICO
+
 track your user behaviour with metrics:
  - google anaylitics
  - track if the user click on the recommendation or even better, did he actually bough the item.
@@ -299,6 +328,9 @@ class: center, middle
 
 ???
 
+# TIBO
+
+
  - watch your user
  - don't alter the User experience by giving indication (quantic photon physic's anecdote)
 
@@ -308,7 +340,7 @@ class: center, middle
 
 ## How to speed up the user feedback?
 
-.img-medium-size[![talk](./img/talk.png)]
+![talk](./img/talk.png)
 
 ???
 
@@ -340,10 +372,11 @@ class: center, middle
 
 ## How to solve issues between two individuals?
 
-.img-medium-size[![talk](./img/talk.png)]
+![talk](./img/talk.png)
 
 ???
 
+# TIBO
 Problem:
 
  - hey the devops guy just called and ask why it's a not a Java application, but 23 micro-services?
@@ -356,6 +389,9 @@ Problem:
  He's going to kick my ass...
 
 Solutions: apply Non violente communication
+---
+
+AGILE
 
 ---
 layout: true
@@ -365,6 +401,11 @@ class: center, middle, non-violent-slide
 ]
 
 .non-violent-pic[![Nonviolent Communication](./img/nonviolent-communication-communication-skills.png)]
+
+
+???
+
+# TIBO
 
 ---
 
