@@ -2,12 +2,15 @@
 class: center, middle
 
 # Make the right product, the right way with the right team
+## The importance of feedbacks
 .octo-logo[![octo logo](./img/octo-logo.png)]
 
 ---
 class: center, middle
 
 ## How to make a product users need?
+
+.img-medium-size[![talk](./img/talk.png)]
 
 ???
 
@@ -49,6 +52,8 @@ class: center, middle
 
 ## Is this technically doable?
 
+.img-medium-size[![talk](./img/talk.png)]
+
 ???
 
 Problem:
@@ -76,6 +81,8 @@ Solution: make a Proof Of Concept
 class: center, middle
 
 ## How can I make a better application for my customers?
+
+.img-medium-size[![talk](./img/talk.png)]
 
 ???
 
@@ -119,6 +126,8 @@ Develop new features
 
 Short-ciruit feedback loop
 
+.img-medium-size[![TDD](./img/tdd2.png)]
+
 ???
 
 Solution:
@@ -133,6 +142,8 @@ Solution:
 class: center, middle
 
 ## How is it possible to meet the expected requirements?
+
+.img-medium-size[![talk](./img/talk.png)]
 
 ???
 
@@ -170,6 +181,8 @@ Solution:
 class: center, middle
 
 ## How to create team's standard?
+
+.img-medium-size[![talk](./img/talk.png)]
 
 --
 
@@ -211,6 +224,8 @@ For better result, you can review the code by the whole team, it speeds up the c
 class: center, middle
 
 ## How to grow as a developer?
+
+.img-medium-size[![talk](./img/talk.png)]
 
 --
 
@@ -255,6 +270,7 @@ class: center, middle
 
 ## How to make sure we are still building the app our user wants
 
+.img-medium-size[![talk](./img/talk.png)]
 
 ???
  - I just build this AMAZING feature, from heaps of data I recommend the best choice for the next purchase, the code is so neat: it has been review by the tech lead, the performances are great!
@@ -292,6 +308,7 @@ class: center, middle
 
 ## How to speed up the user feedback?
 
+.img-medium-size[![talk](./img/talk.png)]
 
 ???
 
@@ -322,6 +339,8 @@ class: middle
 class: center, middle
 
 ## How to solve issues between two individuals?
+
+.img-medium-size[![talk](./img/talk.png)]
 
 ???
 
@@ -443,24 +462,24 @@ count: false
 class: middle, center
 layout: false
 
-# Get feeback at every level, at every stage, quickly
+# Get feedback at every level, at every stage, quickly
 
 ---
 class: middle, center
 count: false
 
 
-# Get feeback **at every level**, at every stage, quickly
+# Get feedback **at every level**, at every stage, quickly
 
 ---
 class: middle, center
 count: false
 
 
-# Get feeback at every level, **at every stage**, quickly
+# Get feedback at every level, **at every stage**, quickly
 
 ---
 class: middle, center
 count: false
 
-# Get feeback at every level, at every stage, **quickly**
+# Get feedback at every level, at every stage, **quickly**
