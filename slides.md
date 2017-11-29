@@ -123,10 +123,34 @@ Problem:
 
 class: center, middle
 .left[
-### [Craftsmanship] Unit tests
+### [Craftsmanship] Cost of finding bugs
 ]
 
-.img-full-size[![cost of unit test](./img/unit-test.jpg)]
+.img-full-size[![cost of finding bugs](./img/unit-test.jpg)]
+
+
+???
+
+# NICO
+
+Solution:
+
+ - The later the more EXPENSIVE it becomes to find bugs : 
+    - takes more time to fix
+    - has impacts on customers
+    - breaks features
+    etc etc
+*WE NEED TO FIND BUGS EARLIER* 
+reducing the feedback loop as much as we can
+
+---
+
+class: center, middle
+.left[
+### [Craftsmanship] Unit test
+]
+
+.img-smallish-size[![unit tests example](./img/unit-test2.png)]
 
 
 ???
