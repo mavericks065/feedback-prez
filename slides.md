@@ -54,17 +54,6 @@ class: center, middle
 engage customer with landing but no product, got a few early adopters to talk to and get needs first
 
 ---
-class: center, middle
-
-.img-full-size[![buffer landing](./img/trash-symbol.jpg)]
-
-???
-# TIBO
-
-Early feedback -> valuable knowledge
-MVP -> trash
-
----
 
 class: center, middle
 
