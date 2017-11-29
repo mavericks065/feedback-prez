@@ -107,7 +107,7 @@ Solution: make a Proof Of Concept
 
 class: center, middle
 
-## How can I make a better application for my customers?
+## How can I reduce the time spend on bugs?
 
 ![talk](./img/talk.png)
 
@@ -243,8 +243,18 @@ class: center, middle
 
 ???
 
-Get some feedback early to create some team standard on your code.
-For better result, you can review the code by the whole team, it speeds up the creation (useful for the bootstrap of the team)
+# NICO
+
+What is nice code? **diff for everyone**:
+ - agreed
+ - create it
+ - respect it
+
+
+## feedback on the code:
+ - readability / maintenability
+ - reduce bugs
+
 
 ---
 class: center, middle
@@ -369,6 +379,21 @@ class: center, middle
 
 class: middle
 .top[
+### [Agile] Principles
+]
+
+> Our highest priority is to satisfy the customer
+through early and continuous delivery
+of valuable software.
+
+--
+
+.img-small-size[![talk](./img/agile-iteration.png)]
+
+---
+
+class: middle
+.top[
 ### [Devops] Release often
 ]
 > DevOps is a software engineering practice that aims at unifying software development (Dev) and software operation (Ops). The main characteristic of the DevOps movement is to strongly advocate automation [...]. **DevOps aims at shorter development cycles, increased deployment frequency, more dependable releases, in close alignment with business objectives.**
@@ -389,7 +414,7 @@ class: center, middle
  - Okay : now we release often but every time we have the same issues : code, deployment, processes...
  - what do you mean ? Don't you try to learn every time?
  - well when I see something that I can have impacts on I try to do it but that's all.
- - Have you heard about retrospectives ? this could be a way to make things better. 
+ - Have you heard about retrospectives ? this could be a way to make things better.
 
 ---
 class: center, middle
@@ -399,8 +424,8 @@ class: center, middle
 .img-medium-size[![retro](./img/retro.jpeg)]
 
 ???
-Solution: 
-- talk about how the last release went. 
+Solution:
+- talk about how the last release went.
 - take actions on some selected key points agreed by the team
 
 ---

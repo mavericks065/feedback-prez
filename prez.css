@@ -4,6 +4,11 @@
 .img-medium-size img {
   height: 18em;
 }
+
+.img-small-size img {
+  height: 10em;
+}
+
 .code-review-commic img {
   width: 35em;
 }
