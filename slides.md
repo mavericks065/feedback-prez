@@ -23,7 +23,7 @@ each project phases:
 ---
 class: center, middle
 
-## How to make a product users need?
+## How do you make a product users need?
 
 ![talk](./img/talk.png)
 
