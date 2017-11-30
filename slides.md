@@ -60,8 +60,7 @@ class: center, middle
 ### [Lean] Dropbox's MVP: landing page
 ]
 
-.img-medium-size[![Dropbox mvp](./img/dropbox-mvp.png)]
-
+<iframe width="672" height="378" src="https://www.youtube.com/embed/xy9nSnalvPc" frameborder="0"></iframe>
 ???
 
 # TIBO
