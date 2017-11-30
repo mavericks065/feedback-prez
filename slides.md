@@ -228,7 +228,7 @@ class: center, middle
 .left[
 ### [Craftsmanship] Specification by example - ATDD
 ]
-.img-full-size[![bdd-cycle](./img/bdd-cycle.png)]
+.img-medium-size[![bdd-cycle](./img/bdd-cycle.png)]
 
 
 ???
