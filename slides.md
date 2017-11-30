@@ -57,6 +57,20 @@ Solutions: MVP
 ---
 class: center, middle
 .left[
+### [Lean] Dropbox's MVP: landing page
+]
+
+.img-medium-size[![Dropbox mvp](./img/dropbox-mvp.png)]
+
+???
+
+# TIBO
+
+simple solution
+
+---
+class: center, middle
+.left[
 ### [Lean] Buffer's MVP: landing page
 ]
 
@@ -135,12 +149,12 @@ class: center, middle
 
 Solution:
 
- - The later the more EXPENSIVE it becomes to find bugs : 
+ - The later the more EXPENSIVE it becomes to find bugs :
     - takes more time to fix
     - has impacts on customers
     - breaks features
     etc etc
-*WE NEED TO FIND BUGS EARLIER* 
+*WE NEED TO FIND BUGS EARLIER*
 reducing the feedback loop as much as we can
 
 ---
@@ -473,7 +487,7 @@ Solution:
 ---
 class: center, middle
 ## How to solve issues between two individuals?
-![talk](./img/talk.png)
+![talk](./img/talk-angry.png)
 
 ???
 
