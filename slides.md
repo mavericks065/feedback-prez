@@ -199,6 +199,15 @@ Solution:
 - Tests are not influenced by implementation.
 
 ---
+class: center, middle
+.left[
+### [Craftsmanship] Test Driven Development
+]
+
+![TDD](./img/unit-dark.jpeg)
+
+
+---
 
 class: center, middle
 
