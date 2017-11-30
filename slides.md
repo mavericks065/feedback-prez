@@ -57,7 +57,7 @@ Solutions: MVP
 ---
 class: center, middle
 .left[
-### [Lean] Dropbox's MVP: landing page
+### [Lean] Dropbox's MVP: video
 ]
 
 <iframe width="672" height="378" src="https://www.youtube.com/embed/xy9nSnalvPc" frameborder="0"></iframe>
