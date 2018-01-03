@@ -1,6 +1,7 @@
 # Make the right product, the right way with the right team
 
-> Presentation is feedback about the different type of feedback in IT
+> Presentation is about the different types of feedback in IT
+> It has been presented to the Craftsmanship meetup of Sydney in December 2017 by Thibaut Gery and myself.
 
 Using [remarkjs](https://github.com/gnab/remark)
 
